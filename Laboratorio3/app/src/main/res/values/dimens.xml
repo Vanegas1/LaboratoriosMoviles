@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginTop">32dp</dimen>
+    <dimen name="max_size_text">40dp</dimen>
+    <dimen name="min_size_text">40dp</dimen>
+    <dimen name="ImageView_width">124dp</dimen>
+    <dimen name="ImageView_height">127dp</dimen>
+
+</resources>
