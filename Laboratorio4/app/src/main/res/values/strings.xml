@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratorio4</string>
+    <string name="rellena_la_siguiente_informacion">Rellena la siguiente informacion</string>
+    <string name="name">Name</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="telefono">Telefono</string>
+    <string name="guardar">GUARDAR</string>
+</resources>
