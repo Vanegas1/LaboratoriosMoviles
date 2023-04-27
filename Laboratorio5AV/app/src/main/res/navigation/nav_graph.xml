@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/billboardFragment"
-        android:name="com.example.laboratorio5av.billboardFragment"
+        android:name="com.example.laboratorio5av.ui.movie.billboardFragment"
         android:label="fragment_billboard"
         tools:layout="@layout/fragment_billboard" >
         <action
@@ -19,12 +19,12 @@
     </fragment>
     <fragment
         android:id="@+id/movieFragment"
-        android:name="com.example.laboratorio5av.movieFragment"
+        android:name="com.example.laboratorio5av.ui.movie.movieFragment"
         android:label="fragment_movie"
         tools:layout="@layout/fragment_movie" />
     <fragment
         android:id="@+id/newMovieFragment"
-        android:name="com.example.laboratorio5av.newMovieFragment"
+        android:name="com.example.laboratorio5av.ui.movie.newMovieFragment"
         android:label="fragment_new_movie"
         tools:layout="@layout/fragment_new_movie" />
 </navigation>
